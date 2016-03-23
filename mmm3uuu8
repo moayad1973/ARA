@@ -1,44 +1,4 @@
-http://5.189.178.128:8088/get.php?username=momoiptv&password=demo&type=m3u
-#EXTM3U  By www.iptv4free.com
-#EXTINF:-1,KSA 1 
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8
-#EXTINF:-1,KSA 2 By www.iptv4free.com
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8
-http://109.200.24.18:8000/get.php?username=nqashalhob&password=nqashalhob&type=m3u&output=mpegts
-#EXTINF:-1,beIN SPORTS1HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4001
-#EXTINF:-1,beIN SPORTS 2HD
-http://185.56.30.123:8082/TV4002
-#EXTINF:-1,beIN SPORTS 3HD
-http://185.56.30.123:8082/TV4003
-#EXTINF:-1,beIN SPORTS 4HD
-http://185.56.30.123:8082/TV4004
-#EXTINF:-1,beIN SPORTS 5HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4005
-#EXTINF:-1,beIN SPORTS 6HD
-http://185.56.30.123:8082/TV4006
-#EXTINF:-1,beIN SPORTS 7HD
-http://185.56.30.123:8082/TV4007
-#EXTINF:-1,beIN SPORTS 8HD
-http://185.56.30.123:8082/TV4008
-#EXTINF:-1,beIN SPORTS 9HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4009
-#EXTINF:-1,beIN SPORTS 10HD
-http://185.56.30.123:8082/TV4010
-#EXTINF:-1,beIN SPORTS 11HD
-http://185.56.30.123:8082/TV4011
-#EXTINF:-1,beIN SPORTS 12HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4012
-#EXTINF:-1,beIN SPORTS 1HD FR
-http://185.56.30.123:8082/TV4013
-#EXTINF:-1,beIN SPORTS 2HD FR
-http://185.56.30.123:8082/TV4014
-#EXTINF:-1,beIN SPORTS 3 FR
-http://185.56.30.123:8082/TV4015
-#EXTINF:-1,beIN MOVIES 1HD By www.iptv4free.com
-http://185.56.30.123:8082/TV4016
-#EXTINF:-1,beIN MOVIES 2HD
-http://185.56.30.123:8082/TV4017
+#EXTM3U
 #EXTINF:-1,FUTURE TV
 http://185.56.30.123:8082/TV6000
 #EXTINF:-1,LBC SAT
