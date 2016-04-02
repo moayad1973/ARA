@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Animal Planet
+http://195.228.11.89:4080/udp/225.255.255.64:10000
 #EXTINF:-1,TUNISIA 1
 http://5.189.178.128:8088/live/momoiptv/demo/147.ts
 #EXTINF:-1,ROTANA CINEMA
